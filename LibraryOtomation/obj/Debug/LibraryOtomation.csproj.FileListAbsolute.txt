@@ -1,0 +1,42 @@
+C:\Users\MURAT DAL\Desktop\C# Studies\LibraryOtomation\LibraryOtomation\bin\Debug\LibraryOtomation.exe.config
+C:\Users\MURAT DAL\Desktop\C# Studies\LibraryOtomation\LibraryOtomation\bin\Debug\LibraryOtomation.exe
+C:\Users\MURAT DAL\Desktop\C# Studies\LibraryOtomation\LibraryOtomation\bin\Debug\LibraryOtomation.pdb
+C:\Users\MURAT DAL\Desktop\C# Studies\LibraryOtomation\LibraryOtomation\bin\Debug\EntityFramework.dll
+C:\Users\MURAT DAL\Desktop\C# Studies\LibraryOtomation\LibraryOtomation\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\MURAT DAL\Desktop\C# Studies\LibraryOtomation\LibraryOtomation\bin\Debug\EntityFramework.xml
+C:\Users\MURAT DAL\Desktop\C# Studies\LibraryOtomation\LibraryOtomation\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\MURAT DAL\Desktop\C# Studies\LibraryOtomation\LibraryOtomation\obj\Debug\LibraryOtomation.form1.resources
+C:\Users\MURAT DAL\Desktop\C# Studies\LibraryOtomation\LibraryOtomation\obj\Debug\LibraryOtomation.form2.resources
+C:\Users\MURAT DAL\Desktop\C# Studies\LibraryOtomation\LibraryOtomation\obj\Debug\LibraryOtomation.Form3.resources
+C:\Users\MURAT DAL\Desktop\C# Studies\LibraryOtomation\LibraryOtomation\obj\Debug\LibraryOtomation.Properties.Resources.resources
+C:\Users\MURAT DAL\Desktop\C# Studies\LibraryOtomation\LibraryOtomation\obj\Debug\LibraryOtomation.csproj.GenerateResource.cache
+C:\Users\MURAT DAL\Desktop\C# Studies\LibraryOtomation\LibraryOtomation\obj\Debug\LibraryOtomation.csproj.CoreCompileInputs.cache
+C:\Users\MURAT DAL\Desktop\C# Studies\LibraryOtomation\LibraryOtomation\obj\Debug\LibraryOtomation.csproj.CopyComplete
+C:\Users\MURAT DAL\Desktop\C# Studies\LibraryOtomation\LibraryOtomation\obj\Debug\LibraryOtomation.exe
+C:\Users\MURAT DAL\Desktop\C# Studies\LibraryOtomation\LibraryOtomation\obj\Debug\LibraryOtomation.pdb
+C:\Users\MURAT DAL\Desktop\C# Studies\LibraryOtomation\LibraryOtomation\obj\Debug\LibraryOtomation.csprojAssemblyReference.cache
+C:\Users\MURAT DAL\Desktop\C# Studies\LibraryOtomation\LibraryOtomation\obj\Debug\LibraryOtomation.Kullanici.KullaniciEkleForm.resources
+C:\Users\MURAT DAL\Desktop\C# Studies\LibraryOtomation\LibraryOtomation\obj\Debug\LibraryOtomation.Kullanici.KullaniciSilFormu.resources
+C:\Users\MURAT DAL\Desktop\C# Studies\LibraryOtomation\LibraryOtomation\obj\Debug\LibraryOtomation.Kullanici.KullaniciGuncelle.resources
+C:\Users\MURAT DAL\Desktop\C# Studies\LibraryOtomation\LibraryOtomation\obj\Debug\LibraryOtomation.kitaplar.KitaplarListeForm.resources
+D:\Üniversite\DİĞER\C# Studies\LibraryOtomation\LibraryOtomation\LibraryOtomation\bin\Debug\LibraryOtomation.exe.config
+D:\Üniversite\DİĞER\C# Studies\LibraryOtomation\LibraryOtomation\LibraryOtomation\bin\Debug\LibraryOtomation.exe
+D:\Üniversite\DİĞER\C# Studies\LibraryOtomation\LibraryOtomation\LibraryOtomation\bin\Debug\LibraryOtomation.pdb
+D:\Üniversite\DİĞER\C# Studies\LibraryOtomation\LibraryOtomation\LibraryOtomation\bin\Debug\EntityFramework.dll
+D:\Üniversite\DİĞER\C# Studies\LibraryOtomation\LibraryOtomation\LibraryOtomation\bin\Debug\EntityFramework.SqlServer.dll
+D:\Üniversite\DİĞER\C# Studies\LibraryOtomation\LibraryOtomation\LibraryOtomation\bin\Debug\EntityFramework.xml
+D:\Üniversite\DİĞER\C# Studies\LibraryOtomation\LibraryOtomation\LibraryOtomation\bin\Debug\EntityFramework.SqlServer.xml
+D:\Üniversite\DİĞER\C# Studies\LibraryOtomation\LibraryOtomation\LibraryOtomation\obj\Debug\LibraryOtomation.csproj.AssemblyReference.cache
+D:\Üniversite\DİĞER\C# Studies\LibraryOtomation\LibraryOtomation\LibraryOtomation\obj\Debug\LibraryOtomation.form1.resources
+D:\Üniversite\DİĞER\C# Studies\LibraryOtomation\LibraryOtomation\LibraryOtomation\obj\Debug\LibraryOtomation.form2.resources
+D:\Üniversite\DİĞER\C# Studies\LibraryOtomation\LibraryOtomation\LibraryOtomation\obj\Debug\LibraryOtomation.kitaplar.KitaplarListeForm.resources
+D:\Üniversite\DİĞER\C# Studies\LibraryOtomation\LibraryOtomation\LibraryOtomation\obj\Debug\LibraryOtomation.Form3.resources
+D:\Üniversite\DİĞER\C# Studies\LibraryOtomation\LibraryOtomation\LibraryOtomation\obj\Debug\LibraryOtomation.Kullanici.KullaniciEkleForm.resources
+D:\Üniversite\DİĞER\C# Studies\LibraryOtomation\LibraryOtomation\LibraryOtomation\obj\Debug\LibraryOtomation.Kullanici.KullaniciGuncelle.resources
+D:\Üniversite\DİĞER\C# Studies\LibraryOtomation\LibraryOtomation\LibraryOtomation\obj\Debug\LibraryOtomation.Kullanici.KullaniciSilFormu.resources
+D:\Üniversite\DİĞER\C# Studies\LibraryOtomation\LibraryOtomation\LibraryOtomation\obj\Debug\LibraryOtomation.Properties.Resources.resources
+D:\Üniversite\DİĞER\C# Studies\LibraryOtomation\LibraryOtomation\LibraryOtomation\obj\Debug\LibraryOtomation.csproj.GenerateResource.cache
+D:\Üniversite\DİĞER\C# Studies\LibraryOtomation\LibraryOtomation\LibraryOtomation\obj\Debug\LibraryOtomation.csproj.CoreCompileInputs.cache
+D:\Üniversite\DİĞER\C# Studies\LibraryOtomation\LibraryOtomation\LibraryOtomation\obj\Debug\LibraryOtomation.csproj.CopyComplete
+D:\Üniversite\DİĞER\C# Studies\LibraryOtomation\LibraryOtomation\LibraryOtomation\obj\Debug\LibraryOtomation.exe
+D:\Üniversite\DİĞER\C# Studies\LibraryOtomation\LibraryOtomation\LibraryOtomation\obj\Debug\LibraryOtomation.pdb

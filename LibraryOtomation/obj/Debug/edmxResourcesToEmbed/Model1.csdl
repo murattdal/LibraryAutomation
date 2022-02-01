@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="LibraryOtomationModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="Personeller">
+    <Key>
+      <PropertyRef Name="personel_id" />
+    </Key>
+    <Property Name="personel_id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="personel_ad" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="personel_soyad" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="persone_tc" Type="String" MaxLength="11" FixedLength="true" Unicode="true" />
+    <Property Name="personel_tel" Type="String" MaxLength="11" FixedLength="true" Unicode="true" />
+    <Property Name="personel_mail" Type="String" MaxLength="50" FixedLength="true" Unicode="true" />
+    <Property Name="personel_kullaniciAd" Type="String" MaxLength="50" FixedLength="true" Unicode="true" />
+    <Property Name="personel_sifre" Type="String" MaxLength="50" FixedLength="true" Unicode="true" />
+  </EntityType>
+  <EntityContainer Name="LibraryOtomationEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Personeller" EntityType="Self.Personeller" />
+    <EntitySet Name="KullanicilarTablosu" EntityType="LibraryOtomationModel.KullanicilarTablosu" />
+  </EntityContainer>
+  <EntityType Name="KullanicilarTablosu">
+    <Key>
+      <PropertyRef Name="kullanici_id" />
+    </Key>
+    <Property Name="kullanici_id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="kullanici_ad" Type="String" MaxLength="50" FixedLength="true" Unicode="true" />
+    <Property Name="kullanici_soyad" Type="String" MaxLength="50" FixedLength="true" Unicode="true" />
+    <Property Name="kullanici_tc" Type="String" MaxLength="11" FixedLength="true" Unicode="true" />
+    <Property Name="kullanici_mail" Type="String" MaxLength="50" FixedLength="true" Unicode="true" />
+    <Property Name="kullanici_tel" Type="String" MaxLength="11" FixedLength="true" Unicode="true" />
+    <Property Name="kullanici_ceza" Type="Double" />
+    <Property Name="kullanici_cinsiyet" Type="String" MaxLength="1" FixedLength="true" Unicode="true" />
+  </EntityType>
+</Schema>

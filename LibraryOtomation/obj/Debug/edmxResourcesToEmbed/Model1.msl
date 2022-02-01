@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="LibraryOtomationModelStoreContainer" CdmEntityContainer="LibraryOtomationEntities">
+    <EntitySetMapping Name="Personeller">
+      <EntityTypeMapping TypeName="LibraryOtomationModel.Personeller">
+        <MappingFragment StoreEntitySet="Personeller">
+          <ScalarProperty Name="personel_id" ColumnName="personel_id" />
+          <ScalarProperty Name="personel_ad" ColumnName="personel_ad" />
+          <ScalarProperty Name="personel_soyad" ColumnName="personel_soyad" />
+          <ScalarProperty Name="persone_tc" ColumnName="persone_tc" />
+          <ScalarProperty Name="personel_tel" ColumnName="personel_tel" />
+          <ScalarProperty Name="personel_mail" ColumnName="personel_mail" />
+          <ScalarProperty Name="personel_kullaniciAd" ColumnName="personel_kullaniciAd" />
+          <ScalarProperty Name="personel_sifre" ColumnName="personel_sifre" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="KullanicilarTablosu">
+      <EntityTypeMapping TypeName="LibraryOtomationModel.KullanicilarTablosu">
+        <MappingFragment StoreEntitySet="KullanicilarTablosu">
+          <ScalarProperty Name="kullanici_cinsiyet" ColumnName="kullanici_cinsiyet" />
+          <ScalarProperty Name="kullanici_ceza" ColumnName="kullanici_ceza" />
+          <ScalarProperty Name="kullanici_tel" ColumnName="kullanici_tel" />
+          <ScalarProperty Name="kullanici_mail" ColumnName="kullanici_mail" />
+          <ScalarProperty Name="kullanici_tc" ColumnName="kullanici_tc" />
+          <ScalarProperty Name="kullanici_soyad" ColumnName="kullanici_soyad" />
+          <ScalarProperty Name="kullanici_ad" ColumnName="kullanici_ad" />
+          <ScalarProperty Name="kullanici_id" ColumnName="kullanici_id" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

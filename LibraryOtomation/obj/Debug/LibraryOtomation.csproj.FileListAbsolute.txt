@@ -61,3 +61,4 @@ C:\Users\mrtdl\Source\Repos\murattdal\LibraryAutomation\LibraryOtomation\obj\Deb
 C:\Users\mrtdl\Source\Repos\murattdal\LibraryAutomation\LibraryOtomation\obj\Debug\LibraryOtomation.csproj.CopyComplete
 C:\Users\mrtdl\Source\Repos\murattdal\LibraryAutomation\LibraryOtomation\obj\Debug\LibraryOtomation.exe
 C:\Users\mrtdl\Source\Repos\murattdal\LibraryAutomation\LibraryOtomation\obj\Debug\LibraryOtomation.pdb
+C:\Users\mrtdl\Source\Repos\murattdal\LibraryAutomation\LibraryOtomation\obj\Debug\LibraryOtomation.AdminKayit.resources

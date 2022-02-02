@@ -37,6 +37,7 @@
             this.pictureBox1 = new System.Windows.Forms.PictureBox();
             this.giriskapatmabutonu = new System.Windows.Forms.Button();
             this.label3 = new System.Windows.Forms.Label();
+            this.button1 = new System.Windows.Forms.Button();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             this.SuspendLayout();
             // 
@@ -76,7 +77,7 @@
             // 
             this.PersonelGirisBtn.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(64)))), ((int)(((byte)(0)))));
             this.PersonelGirisBtn.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.PersonelGirisBtn.Location = new System.Drawing.Point(173, 342);
+            this.PersonelGirisBtn.Location = new System.Drawing.Point(173, 322);
             this.PersonelGirisBtn.Name = "PersonelGirisBtn";
             this.PersonelGirisBtn.Size = new System.Drawing.Size(123, 40);
             this.PersonelGirisBtn.TabIndex = 4;
@@ -110,16 +111,28 @@
             // 
             this.label3.AutoSize = true;
             this.label3.ForeColor = System.Drawing.Color.Maroon;
-            this.label3.Location = new System.Drawing.Point(112, 22);
+            this.label3.Location = new System.Drawing.Point(108, 29);
             this.label3.Name = "label3";
             this.label3.Padding = new System.Windows.Forms.Padding(5);
             this.label3.RightToLeft = System.Windows.Forms.RightToLeft.Yes;
-            this.label3.Size = new System.Drawing.Size(237, 27);
+            this.label3.Size = new System.Drawing.Size(231, 27);
             this.label3.TabIndex = 7;
-            this.label3.Text = "MURAT KÜTÜPHANESİNE HOŞ GELDİNİZ";
+            this.label3.Text = "KÜTÜPHANE SİSTEMİNE HOŞ GELDİNİZ";
             this.label3.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             this.label3.UseCompatibleTextRendering = true;
             this.label3.Click += new System.EventHandler(this.label3_Click);
+            // 
+            // button1
+            // 
+            this.button1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(64)))), ((int)(((byte)(0)))));
+            this.button1.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.button1.Location = new System.Drawing.Point(173, 381);
+            this.button1.Name = "button1";
+            this.button1.Size = new System.Drawing.Size(123, 40);
+            this.button1.TabIndex = 8;
+            this.button1.Text = "Admin Kayıt";
+            this.button1.UseVisualStyleBackColor = false;
+            this.button1.Click += new System.EventHandler(this.button1_Click);
             // 
             // form1
             // 
@@ -128,6 +141,7 @@
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.DarkGoldenrod;
             this.ClientSize = new System.Drawing.Size(442, 470);
+            this.Controls.Add(this.button1);
             this.Controls.Add(this.label3);
             this.Controls.Add(this.giriskapatmabutonu);
             this.Controls.Add(this.pictureBox1);
@@ -157,6 +171,7 @@
         private System.Windows.Forms.PictureBox pictureBox1;
         private System.Windows.Forms.Button giriskapatmabutonu;
         private System.Windows.Forms.Label label3;
+        private System.Windows.Forms.Button button1;
     }
 }
 

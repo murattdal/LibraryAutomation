@@ -40,3 +40,24 @@ D:\Üniversite\DİĞER\C# Studies\LibraryOtomation\LibraryOtomation\LibraryOtoma
 D:\Üniversite\DİĞER\C# Studies\LibraryOtomation\LibraryOtomation\LibraryOtomation\obj\Debug\LibraryOtomation.csproj.CopyComplete
 D:\Üniversite\DİĞER\C# Studies\LibraryOtomation\LibraryOtomation\LibraryOtomation\obj\Debug\LibraryOtomation.exe
 D:\Üniversite\DİĞER\C# Studies\LibraryOtomation\LibraryOtomation\LibraryOtomation\obj\Debug\LibraryOtomation.pdb
+C:\Users\mrtdl\Source\Repos\murattdal\LibraryAutomation\LibraryOtomation\bin\Debug\LibraryOtomation.exe.config
+C:\Users\mrtdl\Source\Repos\murattdal\LibraryAutomation\LibraryOtomation\bin\Debug\LibraryOtomation.exe
+C:\Users\mrtdl\Source\Repos\murattdal\LibraryAutomation\LibraryOtomation\bin\Debug\LibraryOtomation.pdb
+C:\Users\mrtdl\Source\Repos\murattdal\LibraryAutomation\LibraryOtomation\bin\Debug\EntityFramework.dll
+C:\Users\mrtdl\Source\Repos\murattdal\LibraryAutomation\LibraryOtomation\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\mrtdl\Source\Repos\murattdal\LibraryAutomation\LibraryOtomation\bin\Debug\EntityFramework.xml
+C:\Users\mrtdl\Source\Repos\murattdal\LibraryAutomation\LibraryOtomation\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\mrtdl\Source\Repos\murattdal\LibraryAutomation\LibraryOtomation\obj\Debug\LibraryOtomation.csproj.AssemblyReference.cache
+C:\Users\mrtdl\Source\Repos\murattdal\LibraryAutomation\LibraryOtomation\obj\Debug\LibraryOtomation.form1.resources
+C:\Users\mrtdl\Source\Repos\murattdal\LibraryAutomation\LibraryOtomation\obj\Debug\LibraryOtomation.form2.resources
+C:\Users\mrtdl\Source\Repos\murattdal\LibraryAutomation\LibraryOtomation\obj\Debug\LibraryOtomation.kitaplar.KitaplarListeForm.resources
+C:\Users\mrtdl\Source\Repos\murattdal\LibraryAutomation\LibraryOtomation\obj\Debug\LibraryOtomation.Form3.resources
+C:\Users\mrtdl\Source\Repos\murattdal\LibraryAutomation\LibraryOtomation\obj\Debug\LibraryOtomation.Kullanici.KullaniciEkleForm.resources
+C:\Users\mrtdl\Source\Repos\murattdal\LibraryAutomation\LibraryOtomation\obj\Debug\LibraryOtomation.Kullanici.KullaniciGuncelle.resources
+C:\Users\mrtdl\Source\Repos\murattdal\LibraryAutomation\LibraryOtomation\obj\Debug\LibraryOtomation.Kullanici.KullaniciSilFormu.resources
+C:\Users\mrtdl\Source\Repos\murattdal\LibraryAutomation\LibraryOtomation\obj\Debug\LibraryOtomation.Properties.Resources.resources
+C:\Users\mrtdl\Source\Repos\murattdal\LibraryAutomation\LibraryOtomation\obj\Debug\LibraryOtomation.csproj.GenerateResource.cache
+C:\Users\mrtdl\Source\Repos\murattdal\LibraryAutomation\LibraryOtomation\obj\Debug\LibraryOtomation.csproj.CoreCompileInputs.cache
+C:\Users\mrtdl\Source\Repos\murattdal\LibraryAutomation\LibraryOtomation\obj\Debug\LibraryOtomation.csproj.CopyComplete
+C:\Users\mrtdl\Source\Repos\murattdal\LibraryAutomation\LibraryOtomation\obj\Debug\LibraryOtomation.exe
+C:\Users\mrtdl\Source\Repos\murattdal\LibraryAutomation\LibraryOtomation\obj\Debug\LibraryOtomation.pdb
